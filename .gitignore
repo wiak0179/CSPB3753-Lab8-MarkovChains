@@ -1,0 +1,6 @@
+# Build artifacts
+code/*.o
+code/lab8
+
+# macOS metadata
+.DS_Store
